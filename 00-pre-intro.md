@@ -31,4 +31,8 @@ Now a few words about the browser we want to use. The browser is maybe even more
 
 The top notch browsers to do web devloper work in today are probably [Google Chrome](https://www.google.com/chrome/) and [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/). Although there are more browsers on the market these two are the big ones now. They come with awesome developer tools we will need to find errors and test out things.
 
+## Others
+
+There is no other. You've heard about servers and domains and such? This all fine but to learn HTML, CSS and JavaScript we do not need any more infrastructure. Since HTML files, and CSS and JavaScript files for that matter, are pure text documents that a browser reads we can work on our computer. The browser just gets a file which contains a HTML document and we are ready to build our awesome website and learn about all the techniques we can use. Nothing else is happening on the world wide web. Only that our browser reads a file that a server _serves_ to us. But a server is nothing else as someone elses computer.
+
 [next](./01-intro.md)
